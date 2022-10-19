@@ -28,8 +28,8 @@ public class SumForm implements ActionListener{//implementando el listener de ev
         Dimension d = new Dimension();//objeto para obtener el ancho de la pantalla
         
         //Instanciando etiquetas
-        jl1 = new JLabel("Numero 1");
-        jl2 = new JLabel("Numero 2");
+        jl1 = new JLabel("xx 1");
+        jl2 = new JLabel("xx 2");
         jl3 = new JLabel("=");
         
         //Instanciando cuadros de texto
